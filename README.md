@@ -1,3 +1,4 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=ff7eb3&height=150&section=header&text=Neslihan&fontColor=ffffff&fontSize=40)
 <h2 style="color:#e75480;">Hi, I'm Neslihan</h2>
 
 🎓 <b>2nd year Computer Engineering student</b><br>

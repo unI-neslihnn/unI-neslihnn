@@ -44,8 +44,7 @@
 <h3 style="color:#ff7eb3;">Tools & Technologies</h3>
 
 - Git & GitHub  
-- Visual Studio Code  
-- Basic Linux knowledge  
+- Visual Studio Code    
 
 <br>
 
